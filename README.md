@@ -6,10 +6,10 @@
 <br>
 
 # 기술 스택 🪴 
-- #### Languages. Javascript, HTML, CSS
-- #### Strong. React, Redux, tailwind
-- #### Interested. TypeScript
-- #### Others. Git, Postman, Notion
+- #### Languages. `Javascript` `HTML` `CSS`
+- #### Strong. `React` `Redux` `tailwind`
+- #### Interested. `TypeScript`
+- #### Others. `Git` `Postman` `Notion`
 <br>                  
 
 [![hokikie's GitHub stats](https://github-readme-stats.vercel.app/api?username=hokikie&show_icons=true)](https://github.com/hokikie/github-readme-stats)
